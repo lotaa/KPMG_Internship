@@ -25,5 +25,12 @@ However, in order to support the analysis, you speak to the Associate Director f
 3. - Task Three (Data Insights and Presentation)
        Using visualisations to present insights
        
+       
+### ToolsI used 
+1. jupyternotebook
+2. libs: matplot.pyplot, seaborn, pandas , numpy
+3. power BI
+4. powerpoint 
+       
 #### Link internShip
 https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=7T8auwCMWRCaJPeGS
